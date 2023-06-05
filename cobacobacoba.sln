@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inher_enkap", "inher_enkap\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorphy_enkap", "polimorphy_enkap\polimorphy_enkap.vcxproj", "{BE235057-8246-4C20-BBAE-A3462E2C3C4B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tryaneh", "tryaneh\tryaneh.vcxproj", "{63E868CC-9630-44D3-8CA5-A272F97E6F3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -251,6 +253,18 @@ Global
 		{BE235057-8246-4C20-BBAE-A3462E2C3C4B}.Release|x64.Build.0 = Release|x64
 		{BE235057-8246-4C20-BBAE-A3462E2C3C4B}.Release|x86.ActiveCfg = Release|Win32
 		{BE235057-8246-4C20-BBAE-A3462E2C3C4B}.Release|x86.Build.0 = Release|Win32
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|arm64.ActiveCfg = Debug|arm64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|arm64.Build.0 = Debug|arm64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|x64.ActiveCfg = Debug|x64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|x64.Build.0 = Debug|x64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Debug|x86.Build.0 = Debug|Win32
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|arm64.ActiveCfg = Release|arm64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|arm64.Build.0 = Release|arm64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|x64.ActiveCfg = Release|x64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|x64.Build.0 = Release|x64
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|x86.ActiveCfg = Release|Win32
+		{63E868CC-9630-44D3-8CA5-A272F97E6F3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
