@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="polimorphy_virtual.cpp">
+    <ClCompile Include="inher_3_class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="nyawa.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Jantung.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

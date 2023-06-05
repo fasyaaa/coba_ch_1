@@ -29,10 +29,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6423e7ea-7273-4251-becb-db794b60e62c}</ProjectGuid>
-    <RootNamespace>cobacobacoba</RootNamespace>
+    <ProjectGuid>{e4b5ec34-38a0-4545-825d-10343e3d77da}</ProjectGuid>
+    <RootNamespace>pcobalagi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>polimorphy_virtual</ProjectName>
+    <ProjectName>inher_3_class</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -183,11 +183,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="polimorphy_virtual.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Jantung.h" />
-    <ClInclude Include="nyawa.h" />
+    <ClCompile Include="inher_3_class.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -29,10 +29,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6423e7ea-7273-4251-becb-db794b60e62c}</ProjectGuid>
-    <RootNamespace>cobacobacoba</RootNamespace>
+    <ProjectGuid>{dfcf72dc-72ab-418f-a649-e69369a86020}</ProjectGuid>
+    <RootNamespace>hitunganpakeinheritance</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>polimorphy_virtual</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -183,11 +182,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="polimorphy_virtual.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Jantung.h" />
-    <ClInclude Include="nyawa.h" />
+    <ClCompile Include="hitungan_pake_inheritance.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

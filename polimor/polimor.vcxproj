@@ -29,10 +29,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6423e7ea-7273-4251-becb-db794b60e62c}</ProjectGuid>
-    <RootNamespace>cobacobacoba</RootNamespace>
+    <ProjectGuid>{b9b7a6f0-4c35-40e2-ab00-ef3d8ebbfca6}</ProjectGuid>
+    <RootNamespace>polimor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>polimorphy_virtual</ProjectName>
+    <ProjectName>polimorphy_abstraction</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -183,11 +183,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="polimorphy_virtual.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Jantung.h" />
-    <ClInclude Include="nyawa.h" />
+    <ClCompile Include="polimorphy_abstraction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
